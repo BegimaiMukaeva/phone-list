@@ -24,7 +24,7 @@
 1. Клонируйте репозиторий:
 
     ```
-    git clone https://github.com/ваш_username/название_репозитория.git
+    git clone https://github.com/BegimaiMukaeva/phone-list
     cd название_репозитория
     ```
 
